@@ -1,0 +1,40 @@
+body{
+    background-color: blueviolet;
+}
+.error{
+    background: red;
+}
+.fname-error {
+    background-color: #ed8282;
+}
+button{
+    background: blue;
+    border-radius: 15px bold solid;
+}
+/* .login h1{
+    color: aliceblue;
+    border: "1px solid red";
+    background: "#95e59b";
+    text-align: "center";
+    padding-left: 44%;
+} */
+/* #result{
+    color: aliceblue;
+    border: "1px solid red";
+    background: "#95e59b";
+    text-align: "center";
+    padding-left: 30%;
+  } */
+#form-box{
+    padding: 95px;
+    /* text-align: center; */
+    /* background-color: #f2f2f2; */
+    margin: 90px;
+    padding-left: 38%;
+}
+/* .la{
+    font-size: 28px;
+} */
+#form{
+    font-size: 22px;
+}
